@@ -164,7 +164,7 @@ bool checkIfWin(string random_element, vector <char> guessedLetters) {
 }
 
 // Vector storing the phrases that will be picked for the game
-vector<string> phrases = { "This is Hard", "So many possibilities", "School of Information", "Peter's Pipe", "University of Michigan" };
+vector<string> phrases = { "Why you gotta be so complicated?", "So many possibilities", "School of Information", "Peter's Pipe", "University of Michigan", "Look behind you", "Taylor made", "Amy Schumer is a very mediocre entertainer", "Smash that like button", "New phone, who dis?", "Get the Carfax", "That's so mainstream", "#FREEBRAX", "Maybe its maybelline", "Oh nah nah, What's my name?", "Conspiracy theory", "Double Platinum with no features" };
 
 
 
